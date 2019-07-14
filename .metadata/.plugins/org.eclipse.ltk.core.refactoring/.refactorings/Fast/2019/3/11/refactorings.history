@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hellow.jsp&apos; to &apos;Hellow.jsp&apos;&#x0D;&#x0A;- Original project: &apos;Fast&apos;&#x0D;&#x0A;- Destination element: &apos;Hellow.jsp&apos;&#x0D;&#x0A;- Original element: &apos;Hellow.jsp&apos;" description="Copy file" element1="WebContent/Hellow.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1552486359159" target="/Fast/WebContent/Hellow.jsp" units="0" version="1.0"/>
+</session>

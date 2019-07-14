@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\319671728.index
+\BBS\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529044060.index
+\Fast\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1321536864.index
+\BBS\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\193752204.index
+\BBS\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\723433157.index
+\BBS\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3725031322.index
+\BBS\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3986702275.index
+\Main\src
+C:\JSP\workspace-jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2370542733.index
+\BBS\src
